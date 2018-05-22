@@ -1,7 +1,7 @@
 {
   "name": "blear.classes.wheel",
   "version": "1.0.0",
-  "description": "描述",
+  "description": "滚轮类（兼容鼠标与触摸板）",
   "scripts": {
     "live": "browser-sync start --config bs-config.js"
   },
