@@ -1,17 +1,17 @@
-# blear.MODULE_PATH.MODULE_NAME
+# blear.classes.wheel
 
-<https://blear.ydr.me/MODULE_PATH/MODULE_NAME>
+<https://blear.ydr.me/classes/wheel>
 
 [![npm module][npm-img]][npm-url]
 [![build status][travis-img]][travis-url]
 [![coverage][coveralls-img]][coveralls-url]
 
-[travis-img]: https://img.shields.io/travis/blearjs/blear.MODULE_PATH.MODULE_NAME/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/blearjs/blear.MODULE_PATH.MODULE_NAME
+[travis-img]: https://img.shields.io/travis/blearjs/blear.classes.wheel/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/blearjs/blear.classes.wheel
 
-[npm-img]: https://img.shields.io/npm/v/blear.MODULE_PATH.MODULE_NAME.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/blear.MODULE_PATH.MODULE_NAME
+[npm-img]: https://img.shields.io/npm/v/blear.classes.wheel.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/blear.classes.wheel
 
-[coveralls-img]: https://img.shields.io/coveralls/blearjs/blear.MODULE_PATH.MODULE_NAME/master.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/github/blearjs/blear.MODULE_PATH.MODULE_NAME?branch=master
+[coveralls-img]: https://img.shields.io/coveralls/blearjs/blear.classes.wheel/master.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/github/blearjs/blear.classes.wheel?branch=master
 
